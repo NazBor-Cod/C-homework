@@ -1,1 +1,1 @@
-# C-homework
+# CS-homework
