@@ -1,0 +1,6 @@
+C:\Users\ASUS-X756U\source\repos\homework 1.4\bin\Debug\homework 1.4.exe
+C:\Users\ASUS-X756U\source\repos\homework 1.4\bin\Debug\homework 1.4.pdb
+C:\Users\ASUS-X756U\source\repos\homework 1.4\obj\Debug\homework 1.4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-X756U\source\repos\homework 1.4\obj\Debug\homework 1.4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-X756U\source\repos\homework 1.4\obj\Debug\homework 1.4.exe
+C:\Users\ASUS-X756U\source\repos\homework 1.4\obj\Debug\homework 1.4.pdb

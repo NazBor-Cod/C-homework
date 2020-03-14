@@ -1,0 +1,6 @@
+E:\Шаг\C#\homework\2\homework 2.2\bin\Debug\homework 2.2.exe
+E:\Шаг\C#\homework\2\homework 2.2\bin\Debug\homework 2.2.pdb
+E:\Шаг\C#\homework\2\homework 2.2\obj\Debug\homework 2.2.csprojResolveAssemblyReference.cache
+E:\Шаг\C#\homework\2\homework 2.2\obj\Debug\homework 2.2.csproj.CoreCompileInputs.cache
+E:\Шаг\C#\homework\2\homework 2.2\obj\Debug\homework 2.2.exe
+E:\Шаг\C#\homework\2\homework 2.2\obj\Debug\homework 2.2.pdb
